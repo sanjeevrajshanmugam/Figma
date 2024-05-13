@@ -33,9 +33,12 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+
 import './Iphone1415ProMax1.css'
 
-export default function Iphone1415ProMax1() {
+export default function Iphone1415ProMax1()
+
+{
   
   return (
     
@@ -91,7 +94,9 @@ export default function Iphone1415ProMax1() {
 
 import './Iphone1415ProMax3.css'
 
-export default function Iphone1415ProMax3() {
+export default function Iphone1415ProMax3()
+
+{
   
   return (
   
@@ -165,7 +170,9 @@ export default function Iphone1415ProMax3() {
 
 import './Iphone1415ProMax4.css'
 
-export default function Iphone1415ProMax4() {
+export default function Iphone1415ProMax4()
+
+{
  
   return (
    
@@ -245,7 +252,9 @@ export default function Iphone1415ProMax4() {
 
 import './Iphone1415ProMax5.css'
 
-export default function Iphone1415ProMax5() {
+export default function Iphone1415ProMax5()
+
+{
  
   return (
   
